@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleVPN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="vpn_on">VPN ON</string>
+    <string name="vpn_off">VPN OFF</string>
+    <string name="vpn_connect">VPN\nВключить</string>
+    <string name="connecting">Подключение…</string>
+    <string name="vpn_disconnect">VPN\nОтключить</string>
+    <string name="connection_close_confirm">Вы уверены, что хотите отключить VPN соединение?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="server_loading">Загрузка сервера…</string>
+    <string name="invalid_device">Проблемы с устройством</string>
+    <string name="try_different_server">Попробуйте другой  nServer</string>
+    <string name="auth_checking">Аутентификация\nПроверка…</string>
+    <string name="no_internet_conn">Интернет соединение отсутствует</string>
+    <string name="vpn_off_success">VPN-соединение отключено успешно</string>
+    <string name="cc_netherlands">Netherlands</string>
+    <string name="cc_vpn">vpn</string>
+    <string name="permission_denied">Доступ отказан!</string>
+
+    <string name="connection_state_disconnected">DISCONNECTED</string>
+    <string name="server_conn">Подключения к серверу…</string>
+    <string name="server_auth">Аутентификация сервера....</string>
+    <string name="reconnecting">Повторное подключение…</string>
+    <string name="no_network_conn">Нет сетевого подключения…</string>
+</resources>
